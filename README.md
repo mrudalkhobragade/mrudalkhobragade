@@ -1,8 +1,8 @@
 # Hi, I'm Mrudal 👋
 
-Data Analyst & SQL Developer passionate about analytics, dashboards, and business insights.
+Data Analyst & SQL Developer with experience in SQL, Power BI, Excel, and data visualization. Focused on transforming raw data into actionable business insights through analytics, dashboarding, and reporting solutions.
 
-## 🔹 Skills
+## 🔹 Technical Skills
 - SQL
 - Power BI
 - Excel
@@ -13,10 +13,12 @@ Data Analyst & SQL Developer passionate about analytics, dashboards, and busines
 - ETL
 - Dashboarding
 
-## 🔹 Currently Learning
-- Advanced Power BI
-- Python for Data Analytics
-- Data Visualization Techniques
+## 🔹 Areas of Interest
+- Business Intelligence
+- Data Analytics
+- Dashboard Development
+- Reporting Automation
+- Data-Driven Decision Making
 
 ## 🔹 Connect With Me
 - LinkedIn: www.linkedin.com/in/mrudalkhobragade
